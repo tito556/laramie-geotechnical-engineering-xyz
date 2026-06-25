@@ -1,0 +1,45 @@
+# Geotechnical Engineering — Laramie
+
+> Geotechnical engineering services in Laramie, United States.
+
+## Services
+- [Anchors](https://laramie.geotechnical-engineering.xyz/anchors/)
+- [Atterberg Limits](https://laramie.geotechnical-engineering.xyz/atterberg-limits/)
+- [Cbr Road](https://laramie.geotechnical-engineering.xyz/cbr-road/)
+- [Cpt Test](https://laramie.geotechnical-engineering.xyz/cpt-test/)
+- [Deep Excavations](https://laramie.geotechnical-engineering.xyz/deep-excavations/)
+- [Excavation Monitoring](https://laramie.geotechnical-engineering.xyz/excavation-monitoring/)
+- [Excavations](https://laramie.geotechnical-engineering.xyz/excavations/)
+- [Footings](https://laramie.geotechnical-engineering.xyz/footings/)
+- [Foundations](https://laramie.geotechnical-engineering.xyz/foundations/)
+- [Geophysics](https://laramie.geotechnical-engineering.xyz/geophysics/)
+- [Ground Improvement](https://laramie.geotechnical-engineering.xyz/ground-improvement/)
+- [Grouting](https://laramie.geotechnical-engineering.xyz/grouting/)
+- [In Situ Permeability](https://laramie.geotechnical-engineering.xyz/in-situ-permeability/)
+- [Investigation](https://laramie.geotechnical-engineering.xyz/investigation/)
+- [Lab In Situ](https://laramie.geotechnical-engineering.xyz/lab-in-situ/)
+- [Laboratory](https://laramie.geotechnical-engineering.xyz/laboratory/)
+- [Liquefaction](https://laramie.geotechnical-engineering.xyz/liquefaction/)
+- [Masw](https://laramie.geotechnical-engineering.xyz/masw/)
+- [Mat Foundations](https://laramie.geotechnical-engineering.xyz/mat-foundations/)
+- [Piles](https://laramie.geotechnical-engineering.xyz/piles/)
+- [Resistivity](https://laramie.geotechnical-engineering.xyz/resistivity/)
+- [Road Geotechnics](https://laramie.geotechnical-engineering.xyz/road-geotechnics/)
+- [Sand Cone Density](https://laramie.geotechnical-engineering.xyz/sand-cone-density/)
+- [Seismic](https://laramie.geotechnical-engineering.xyz/seismic/)
+- [Seismic Isolation](https://laramie.geotechnical-engineering.xyz/seismic-isolation/)
+- [Seismic Microzonation](https://laramie.geotechnical-engineering.xyz/seismic-microzonation/)
+- [Slope Stability](https://laramie.geotechnical-engineering.xyz/slope-stability/)
+- [Slopes](https://laramie.geotechnical-engineering.xyz/slopes/)
+- [Soft Ground Tunnels](https://laramie.geotechnical-engineering.xyz/soft-ground-tunnels/)
+- [Spt Drilling](https://laramie.geotechnical-engineering.xyz/spt-drilling/)
+- [Stone Columns](https://laramie.geotechnical-engineering.xyz/stone-columns/)
+- [Test Pits](https://laramie.geotechnical-engineering.xyz/test-pits/)
+- [Triaxial](https://laramie.geotechnical-engineering.xyz/triaxial/)
+
+## Contact
+- Website: https://laramie.geotechnical-engineering.xyz/
+
+## About
+This site provides geotechnical engineering services in Laramie, United States.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
